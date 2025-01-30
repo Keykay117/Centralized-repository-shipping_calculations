@@ -1,4 +1,4 @@
-# Here is a new update by Keykay117
+# Here is another update by Keykay117
 # Shipping Cost Calculator
 
 ## Input package weight and shipping rate
